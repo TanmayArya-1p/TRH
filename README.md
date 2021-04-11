@@ -14,11 +14,11 @@ Utilises Selenium Chrome webdriver to integrate web-scraping with automation to 
 
 Creates and instance of TypeRacer selenium window.
 
-## Attributes :
+### Attributes :
 
 None
-***
-## Methods :
+
+### Methods :
 
 * `OpenNewGame()`
     
@@ -36,11 +36,11 @@ None
 
 Creates and instance of MonkeyType selenium window.
 
-## Attributes :
+### Attributes :
 
 None
-***
-## Methods :
+
+### Methods :
 
 * `OpenNewGame()`
     
