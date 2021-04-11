@@ -52,5 +52,3 @@ None
 * `Starthack()`
 
     Starts providing the web-scraped data intot the input field.
-
-***
