@@ -4,7 +4,7 @@
 `pip install TRH`
 ***
 ## Description
-Utilises Selenium Chrome webdriver to integrate web-scraping with automation to input at high speeds.
+Utilises Selenium Chrome webdriver to integrate web-scraping with automation to input at high speeds in `wpm` measuring websites like Monkey Type and Type Racer.
 
 ***
 ## Supported Platforms
