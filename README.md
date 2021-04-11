@@ -1,6 +1,7 @@
 # TRH
+## Installation
 
-## Installation :  `pip install TRH`
+`pip install TRH`
 ***
 ## Description
 Utilises Selenium Chrome webdriver to integrate web-scraping with automation to input at high speeds.
